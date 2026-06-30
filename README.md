@@ -46,7 +46,7 @@ AI-YouTube-Video-Analyzer/
 ### Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/AI-YouTube-Video-Analyzer.git
+git clone https://github.com/kaif-sayyad/AI-YouTube-Video-Analyzer.git
 
 cd AI-YouTube-Video-Analyzer
 ```
