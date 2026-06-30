@@ -32,7 +32,7 @@ An Agentic AI application that analyzes YouTube videos and generates intelligent
 ```
 AI-YouTube-Video-Analyzer/
 │
-├── agent.py          # AI Agent implementation
+├── analyzer.py          # AI Agent implementation
 ├── ui.py             # Streamlit frontend
 ├── .env
 ├── README.md
